@@ -1,0 +1,40 @@
+.competition{
+    width: 442px;
+    height: 798px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(233, 25, 33, 0.9);
+    margin: 10px;
+    img{
+        width: 202px;
+        height: 202px;
+        border-radius: 200px;
+        margin-bottom: 30px;
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+    h2{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 35px;
+        color: #FFFFFF;
+    }
+
+    p{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        text-align: justify;
+        padding: 50px;
+        padding-top: 10px ;
+        color: #FFFFFF;
+    }
+
+}

@@ -1,0 +1,14 @@
+.map{
+    overflow-wrap: unset;
+    img{
+        position: absolute;
+        height: 490px;
+        z-index: -20;
+        transform: translate(-900px, -100px);
+    }
+    .gmap{
+        width: 90vw;
+        max-width: 992px;
+        height: 489px;
+    }
+}

@@ -1,0 +1,18 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    position: absolute;
+    right: 15vw;
+    top: 20px;
+    a{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        text-align: justify;
+        margin: 20px;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+}
